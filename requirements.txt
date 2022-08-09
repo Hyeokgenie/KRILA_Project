@@ -19,7 +19,6 @@ Flask-Compress==1.12
 fonttools==4.34.4
 geobuf==1.1.1
 geopandas==0.11.0
-heroku==0.1.4
 idna==3.3
 itsdangerous==2.1.2
 Jinja2==3.1.2
